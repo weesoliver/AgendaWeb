@@ -3,7 +3,7 @@ body
     margin: 0;
     padding: 0;
     background-size: cover;
-    background-image: url(../images/fnd_login.jpg);
+    background-image: url(../images/fnd_login_o.jpg);
     font-family: sans-serif;
 }
 .quadradoLogin
@@ -73,7 +73,7 @@ h2
 }
 .quadradoLogin input[type="submit"]:hover
 {
-    background: #efed40;
+    background: #EBB20C;
     color: white;
    
 }
