@@ -16,7 +16,7 @@ body
     width: 350px;
     height: 420px;
     box-sizing: border-box;
-    background: rgba(0,0,0,.5);
+    background: rgba(0,0,0,.6);
 }
 .drImgLogin
 {
@@ -69,13 +69,13 @@ h2
     font-size: 16px;
     background-color: deepskyblue;
     cursor: pointer;
-    
+
 }
 .quadradoLogin input[type="submit"]:hover
 {
     background: #EBB20C;
     color: white;
-   
+
 }
 ::placeholder
 {
