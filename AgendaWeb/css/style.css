@@ -1,10 +1,18 @@
-body
+body, html
 {
     margin: 0;
-    padding: 0;
-    background-size: cover;
-    background-image: url(../images/fnd_login_o.jpg);
+    height: 100%;
     font-family: sans-serif;
+}
+.bg
+{
+
+    background-image: url(../images/fnd_login_o.jpg);
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
 }
 .quadradoLogin
 {
